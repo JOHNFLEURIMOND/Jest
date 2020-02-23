@@ -7,7 +7,7 @@ This application is a Jest testing app
 This application is made with Jest, React, Prettier and Lint
 
 ## Optimizations.
-Finish the app, I want to see if I can use Jest in other apps
+Setting up jest testing. will implement react app, and test components and set up linter and prettier.
 ## Lessons Learned:
 Jest basic testing
 ## portfolio:
